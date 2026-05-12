@@ -26,8 +26,11 @@ export default function BenefitsPage() {
             </p>
           </div>
           <ImagePlaceholder
-            caption="Placeholder for photo: Bemiston Place exterior at ribbon-cutting or golden-hour façade detail"
+            src="/images/bemiston-place-exterior.webp"
+            alt="Multifamily building exterior along a tree-lined Clayton street corner in warm daylight—façade, balconies, and ground-floor entries visible."
+            caption="Bemiston Place exterior at ribbon-cutting or golden-hour façade detail"
             className="shadow-none lg:-mx-[4vw]"
+            priority
           />
         </div>
       </section>
