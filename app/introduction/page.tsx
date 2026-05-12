@@ -29,8 +29,11 @@ export default function IntroductionPage() {
 
       <section className="mx-auto grid w-full max-w-wide gap-14 px-6 py-[3.875rem] sm:px-10 lg:gap-16 lg:px-0 lg:py-[5rem] xl:py-[5.5rem]">
         <ImagePlaceholder
-          caption="Placeholder for photo: Clayton central business district skyline with construction cranes visible"
+          src="/images/clayton-cbd-skyline-cranes.webp"
+          alt="Clayton-area central business district with multiple office towers and construction cranes against a bright sky."
+          caption="Clayton central business district skyline with construction cranes visible"
           className="lg:-mx-[6vw]"
+          priority
         />
 
         <div className="grid gap-10 lg:grid-cols-[1fr,minmax(260px,0.94fr)] lg:gap-14">
