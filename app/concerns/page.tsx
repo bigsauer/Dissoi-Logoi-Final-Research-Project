@@ -39,7 +39,11 @@ export default function ConcernsPage() {
           tag="Cluster A"
           title="Small businesses face gentrification pressure before steel arrives"
           image={
-            <ImagePlaceholder caption="Placeholder for photo: Former independent storefront façade under renovation fencing / papered windows" />
+            <ImagePlaceholder
+              src="/images/storefront-renovation-fencing.jpg"
+              alt="Ground-level façade behind temporary construction fencing at a redevelopment site — windows covered and street-level work underway."
+              caption="Former independent storefront façade under renovation fencing / papered windows"
+            />
           }
         >
           <p>
