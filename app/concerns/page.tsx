@@ -25,8 +25,11 @@ export default function ConcernsPage() {
             </p>
           </div>
           <ImagePlaceholder
-            caption="Placeholder for photo: Clayton skyline construction — crane clusters along office corridor"
+            src="/images/clayton-skyline-construction.jpg"
+            alt="Urban street corner with glass office towers, a Commerce Bank branch, and a red construction crane against a blue sky."
+            caption="Clayton skyline construction — crane clusters along office corridor"
             className="shadow-none lg:-mx-[4vw]"
+            priority
           />
         </div>
       </section>
