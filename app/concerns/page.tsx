@@ -72,7 +72,11 @@ export default function ConcernsPage() {
           title="Affordability wedges stay razor-thin beside amenity arsenals"
           eyebrow="Equity optics"
           image={
-            <ImagePlaceholder caption="Placeholder for photo: High-rise amenity deck / fitness lounge evocative of Vanguard-era marketing palettes" />
+            <ImagePlaceholder
+              src="/images/high-rise-amenity-lounge.jpg"
+              alt="Architectural marketing illustration: glass high-rises around a brick-patterned plaza with reflecting pools, a stylized shoe sculpture, benches, and dusk sky colors—typical upscale redevelopment promotional art."
+              caption="High-rise amenity deck / fitness lounge evocative of Vanguard-era marketing palettes"
+            />
           }
         >
           <p>
