@@ -4,7 +4,7 @@ import { ButtonLink } from "@/components/ui/Button";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Side 1 · Development Benefits Neighborhoods",
+  title: "Side 1 · Development Can Enhance Communities",
 };
 
 export default function BenefitsPage() {
@@ -17,12 +17,13 @@ export default function BenefitsPage() {
               Side 1 — structured optimism
             </p>
             <h1 className="text-[clamp(2.05rem,4.85vw,2.95rem)] font-bold tracking-tight text-foreground">
-              Development can strengthen neighborhoods
+              Development can enhance communities.
             </h1>
             <p className="max-w-content text-[1.065rem] leading-relaxed text-muted-foreground sm:text-[1.09rem]">
-              Side 1 pieces together redevelopment testimony, housing economics, and policy signals arguing that
-              new luxury multifamily corridors can scaffold neighborhood stamina — acknowledging trade-offs without
-              performing blind boosterism.
+              Side 1 collates redevelopment evidence, housing economics, and policy trends in support of the creation of
+              new luxury multifamily corridors as a{' '}
+              <span className="font-semibold text-foreground/90">&ldquo;scaffold for neighborhood stamina&rdquo;</span>
+              {' '}while maintaining an awareness of—but not indulgence in—blind boosterism.
             </p>
           </div>
           <ImagePlaceholder
@@ -38,7 +39,7 @@ export default function BenefitsPage() {
       <section className="mx-auto grid w-full max-w-[68rem] gap-16 px-6 py-[3.925rem] sm:px-8 lg:gap-[4.875rem] lg:px-[2.25rem] lg:py-[5.375rem]">
         <ArgumentClusterCard
           tag="Cluster A"
-          title="Foot traffic revives dormant street economies"
+          title="Walking revitalizes dead street economies"
           image={
             <ImagePlaceholder
               src="/images/clayton-sidewalk-cafes.webp"
@@ -48,31 +49,34 @@ export default function BenefitsPage() {
           }
         >
           <p>
-            Retail near office canyons lives or dies by spillover diners. Discussing Clayton&apos;s Bemiston redevelopment,
-            Mayor Michelle Harris envisioned{" "}
-            <span className="font-semibold text-foreground">several hundred new residents multiplying feet on sidewalks</span>{" "}
-            — the kinetic difference between salons surviving winter lulls versus quietly expiring beside ghosted patios
-            (Zimmerman). Harris treated the parcel as strategic downtown anatomy: revitalizing corners that should bustle
-            after commuters vanish, not surrendering blocks to parking craters (Zimmerman). That vision is not charity; it
-            is standard mixed-use theory — density converts vertical housing into horizontal retail oxygen.
+            Dead street economies come back to life with foot traffic. It&apos;s the office canyon dwellers who save or
+            sink retail near office canyons. When Mayor Michelle Harris spoke about Bemiston&apos;s redevelopment, she
+            envisioned{' '}
+            <span className="font-semibold text-foreground">several hundred new people on the sidewalks</span>
+            —the kinetic difference between salons surviving the winter months and quietly dying beside ghosted patios
+            (Zimmerman). Harris used the property as strategic downtown anatomy: revitalize corners when commuters go home;
+            don&apos;t give blocks to parking craters (Zimmerman). That&apos;s not charity; it&apos;s just the basic theory of
+            mixed-use—density changes vertical housing into horizontal retail oxygen.
           </p>
           <p>
-            High school reporting captured teenage impatience with dust: student Sage Bernstein argued construction annoyance
-            cannot outweigh eventual street-level upgrades — a blunt generational shrug many adults share privately but phrase
-            more diplomatically (Zimmerman). Side 2 will contrast that optimism with merchants priced out; Side 1 still owes
-            readers the honest emotional fact that some neighbors welcome cranes because stagnation felt worse than noise.
+            Teenage impatience with dust was discussed at the high school level: student Sage Bernstein explained that his
+            annoyance with construction doesn&apos;t outweigh the eventual benefits of street-level improvements — an attitude
+            that many adults might privately voice but express more diplomatically (Zimmerman). Side 2 will compare that
+            optimism with merchants who were pushed out, but Side 1 owes readers the honest emotional truth that some
+            neighbors were pro-cranes because &ldquo;stagnation was worse than noise.&rdquo;
           </p>
           <p>
-            Luxury towers do not automatically mint beloved bookstores, yet proponents bank on probability: more residents within
-            walking distance multiplies weekday coffee runs, last-minute gift purchases, haircut appointments tethered to flexible
-            high-rise schedules. Critics demand proof each dollar circulates locally — fair — but proponents answer with embodied
-            presence rather than spreadsheets alone (Zimmerman). Density might fail; scarcity of bodies definitely starves corridors.
+            Beloved bookstores don&apos;t simply appear, of course, but proponents rely on the odds: the more people who live
+            within walking distance of a tower, the more the likelihood of coffee runs, errands for gifts, flexible haircut
+            appointments and the like. Critics require proof of every dollar that circulates locally — fair — but proponents
+            respond by embodying the presence, not necessarily just the spreadsheets (Zimmerman). Densities can prove to be
+            unreliable, but no one gets hungry for lack of bodies.
           </p>
         </ArgumentClusterCard>
 
         <ArgumentClusterCard
           tag="Cluster B"
-          title="Investment can renovate aging neighborhood fabric"
+          title="Renovating the aging neighborhood fabric is possible through investment"
           eyebrow="Material stewardship"
           image={
             <ImagePlaceholder
@@ -83,29 +87,29 @@ export default function BenefitsPage() {
           }
         >
           <p>
-            Charles Gascon and Lillian Fu document how institutional and independent investors renovate deteriorating single-family
-            channels — injecting capital upgrades that visibly change block-level curb impressions (Gascon and Fu). That pattern
-            is not ethically pure: renovation can coincide with tenancy churn. Still, Side 1 must admit dilapidated homes rarely
-            help small businesses projecting neighborhood safety to nightly delivery drivers or evening dog walkers fearful of poorly
-            tended lots.
+            Charles Gascon and Lillian Fu explore the process of institutional and independent investors improving aging single-family lots
+            by investing in capital improvements that can clearly alter curb appeal at the block level (Gascon and Fu). That pattern isn&apos;t
+            ethically simple: renovation can overlap with the churn of tenants. Nevertheless, Side 1 can&apos;t deny that decrepit houses do
+            not assist small businesses trying to convey a picture of neighborhood safety to nightly delivery drivers or evening dog walkers
+            who are afraid of poorly-kept lots.
           </p>
           <p>
-            The same research notes spillovers bordering public-good territory — enhanced lighting footprints, supplementary security rotations
-            underwriting perceived risk mitigation (Gascon and Fu). Municipalities ideally deliver safety democratically; in funding gaps,
-            private actors sometimes fill luminous voids. Whether that counts as philanthropy or reputational deodorant depends on vantage —
-            proponents argue outcomes still reduce ambient fear for deli workers closing registers after dark.
+            In the same research, spillovers adjacent to public-good space — lighting footprints, additional security rotations underwriting
+            perceived risk mitigation (Gascon and Fu) — are mentioned. Ideally, municipalities provide safety democratically; when they don&apos;t,
+            private actors can fill empty spaces that remain alight. As for whether it&apos;s philanthropy or a way of defusing ambient fear for
+            deli workers before they close the registers at night, that&apos;s up to you.
           </p>
           <p>
-            Luxury infill parallels are imperfect — glass towers exceed single-house flip logic — yet underwriting departments still scrutinize adjacent
-            blight risking lease-up velocity (Gascon and Fu). Clayton boosters wager global capital distrusts visible decay bordering marketing suites.
-            Side 1 therefore frames refurbishment narratives as intertwined: capital repairs visible edges even when redistribution questions remain painfully
-            open — questions Side 2 foregrounds bluntly shortly.
+            While luxury infill parallels aren&apos;t quite as tidy as glass towers, single-house flip logic still gets underwritten—and still
+            leak-checked for adjacent blight (Gascon and Fu). A Clayton booster bets against visible decay around marketing-suite walls.
+            Side 1 thus constructs refurbishment stories as entangled: capital repairs visible faces while questions of redistribution linger
+            painfully on the horizon — questions Side 2 makes explicit in the immediate present.
           </p>
         </ArgumentClusterCard>
 
         <ArgumentClusterCard
           tag="Cluster C"
-          title="Housing pressures require supply that actually completes"
+          title="Housing pressures demand completion of supply"
           image={
             <ImagePlaceholder
               src="/images/multifamily-steel-decking-dusk.webp"
@@ -115,28 +119,29 @@ export default function BenefitsPage() {
           }
         >
           <p>
-            Rachel Lippmann reports nonprofits serving immigrants, refugees, and survivors of domestic violence endorsing tighter lot footprints because
-            legal shelter scarcity reproduces cascading instability inseparable from work and childcare access (Lippmann). Supporting infill tweaks is not
-            identical to cheering saltwater infinity pools atop luxury slabs — morally distinct categories Side 2 will separate — yet coalition overlaps
-            highlight how earnest affordability advocates occasionally share legislative oxygen with prestige developers debating the same parcels.
+            Nonprofits that provide services to immigrants, refugees, and domestic violence survivors support tighter lot footprints, as limited legal shelter
+            creates cascading instability that is inextricably linked to work and childcare availability (Lippmann). It&apos;s not quite cheering saltwater infinity
+            pools atop luxury slabs — morally distinct turf Side 2 will map — yet sometimes the same parcels get debated both by affordability coalitions and by prestige
+            developers.
           </p>
           <p>
-            Gascon and Fu synthesize stark renter moods: roughly a quarter perceive mortgage attainment as extraordinarily unlikely while well over{" "}
-            <span className="font-semibold text-foreground">seven in ten renters maintain homeownership aspirations</span> trapped by underwriting friction
-            (Gascon and Fu). Even imperfect filtering mechanisms — luxury units alleviating scramble lower down market rungs — complicate fantasies that freezing
-            construction compassionately freezes rents regionwide. Side 2 will counter that funneling skepticism merits weight; Side 1 still insists paralysis
-            rarely constructs bedrooms.
+            Gascon and Fu combine raw renter sentiments: about one-quarter see purchasing a home as extremely difficult while more than seven in ten renters have
+            homeownership ambitions{' '}
+            <span className="font-semibold text-foreground">stuck behind underwriting friction</span> (Gascon and Fu). Luxury filters easing pressure lower on the ladder
+            are imperfect—but freezing construction outright rarely freezes rents kindly regionwide either. Side 2 will funnel skepticism heavily; Side 1 insists that
+            stasis rarely delivers bedrooms either.
           </p>
           <p>
-            Na Zhao underscores compressed multifamily timelines — Midwest metros hovering near roughly{" "}
-            <span className="font-semibold text-foreground">17-month</span> delivery averages versus modestly longer national baselines nearing twenty months —
-            implying bureaucratic lethargy, not cranes alone, dictates how swiftly keys appear (Zhao). Clayton&apos;s cranes may frustrate commuters, yet stagnating
-            gravel lots incubate cynical distrust spanning decades (a motif Side 2 revisits referencing shelved predecessors). Faster completion does not equal moral
-            absolution — but timelines discipline opportunity costs developers and renters jointly shoulder.
+            Take note of compressed multifamily timelines, though: Midwest metros hover near roughly{' '}
+            <span className="font-semibold text-foreground">17 months</span> while modestly longer national averages approach roughly twenty months — implying slowness
+            of process matters as much as cranes (Zhao). Clayton&apos;s cranes may cause traffic woes, while inactivity on gravel lots can fester mistrust across decades
+            (Side 2 reminds readers of predecessors that sat scraped and shelved). Faster delivery doesn&apos;t mean moral absolution—but timelines discipline{' '}
+            <span className="font-semibold text-foreground">opportunity costs</span> shared by developers and renters.
           </p>
           <p>
-            Stitching immigrant-led endorsements beside quantitative renter stress plus delivery calendars yields Side 1&apos;s argumentative spine — not utopian prophecy,
-            but grounded reasons serious people might welcome controlled density pulses even while demanding aggressive affordability overlays Side 2 catalogues ruthlessly next.
+            When stitched together with immigrant-led endorsements beside quantitative renter stress plus delivery calendars, that scaffolding forms Side 1&apos;s
+            argumentative spine — not prophecy, but reasons serious people should welcome measured density pulses while demanding the aggressive affordability overlays
+            Side 2 catalogues ruthlessly next.
           </p>
         </ArgumentClusterCard>
 
