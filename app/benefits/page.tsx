@@ -40,7 +40,11 @@ export default function BenefitsPage() {
           tag="Cluster A"
           title="Foot traffic revives dormant street economies"
           image={
-            <ImagePlaceholder caption="Placeholder for photo: Clayton sidewalk cafés near office towers — afternoon pedestrians" />
+            <ImagePlaceholder
+              src="/images/clayton-sidewalk-cafes.webp"
+              alt="Sidewalk-facing storefronts and outdoor seating along a downtown corridor with pedestrians, trees, and office towers behind."
+              caption="Clayton sidewalk cafés near office towers — afternoon pedestrians"
+            />
           }
         >
           <p>
