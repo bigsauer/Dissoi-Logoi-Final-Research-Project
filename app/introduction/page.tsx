@@ -84,52 +84,43 @@ export default function IntroductionPage() {
 
         <article className="mx-auto grid w-full max-w-content gap-[1rem] border-t border-border pt-14 text-[0.97rem] leading-[1.75] text-foreground sm:text-[0.9825rem]">
           <p>
-            Clayton reads like a contradiction on purpose: immaculate street trees shading glassy leasing
-            offices, commuter parking decks humming beneath yoga studios — then, suddenly, bulldozers
-            swallow familiar corners (Wikipedia). That tension is precisely where this paper plants its
-            question. Roughly summarized, more than seven large-scale projects nearing{" "}
-            <span className="font-semibold text-foreground">$600 million in committed investment circa 2022</span>
-            concentrates attention on whether density functions as philanthropy for small business — or politely
-            accelerates eviction math for anyone outside luxury spending brackets (Wikipedia).
+            Clayton is purposefully a paradox: clean streets, clear windows, and siloed parking lots beneath yoga
+            studios, and then some bulldozing (Wikipedia). It&apos;s that tension that&apos;s where this paper sets its
+            question. In brief, about seven big schemes, with over $600m invested, around 2022, focus on whether density
+            can be a kind of philanthropy to small business or — let&apos;s be polite — a handy speeding-up of the
+            eviction math for anybody not in the luxury spending brackets (Wikipedia).
           </p>
           <p>
-            Officials and residents never argue in abstractions alone. Speaking about{" "}
-            <span className="font-semibold text-foreground">Bemiston Place</span>, Mayor Michelle Harris forecast{" "}
-            <span className="font-semibold text-foreground">several hundred new residents amplifying sidewalks</span>{" "}
-            because additional customers keep retailers breathing through winter slumps — she anchored the redevelopment
-            as a major downtown corner injecting vibrancy beyond office lunch rushes (Zimmerman). Reporters canvassing
-            students recorded the predictable teenage shrug toward temporary dust: nuisance now, upgraded street life
-            later (Zimmerman). Those anecdotes do not disprove opposing fears; they show optimism isn&apos;t conjured out
-            of thin marketing decks — it echoes lived desire for kinetic blocks.
+            None of the officials or the residents ever argue in abstractions only. On Bemiston Place, Mayor Michelle
+            Harris predicted several hundred new residents will be breathing on the sidewalks as more people continue to
+            come to the downtown corner retailers during winter doldrums (Zimmerman). Temporary dust — upgraded street life
+            later (Zimmerman); the student apathy reporters heard repeatedly in the face of this flurry of dust. But those
+            anecdotes do not refute opposing fears, they demonstrate that optimism is not magic out of thin marketing decks
+            — it&apos;s a reflection of desire lived.
           </p>
           <p>
-            Citywide policy chatter supplies the blunt countertone. Reporter Rachel Lippmann notes both St. Louis City
-            and County leaders concede they collectively “need to do better” on affordability while simultaneously
-            passing infill tweaks — including compressing permissible lot footprints — endorsed by nonprofits serving immigrant,
-            refugee, and domestic violence communities who understand housing as safety infrastructure (Lippmann). Listening
-            to those endorsements beside luxury ribbon cuttings resembles hearing two playlists at once.
+            The blunt countertone is provided by chatter from city-wide policy. St. Louis City and County officials both
+            admit they &ldquo;should do better&rdquo; on affordability, while at the same time enacting
+            &ldquo;infill&rdquo; tweaks, such as reducing lot footprints allowed under development, that nonprofits
+            representing domestic violence, immigrant, and refugee communities recognize as components of housing as safety
+            infrastructure (Lippmann). It&apos;s like listening to two playlists at once, when you hear those endorsements
+            next to the luxury ribbon cuts.
           </p>
           <p>
-            Hovering cranes matter because skylines reorganize tenancy faster than sentimental memory. Completed buildings
-            like{" "}
-            <span className="font-semibold text-foreground">
-              Bemiston Place (&apos;24, 237 units)
-            </span>{" "}
-            signal capacity; pending proposals swirling around{" "}
-            <span className="font-semibold text-foreground">The Shaw</span>,{" "}
-            <span className="font-semibold text-foreground">50 South Bemiston</span>, and{" "}
-            <span className="font-semibold text-foreground">North Meramec</span> keep morphing —
-            timelines slip, elevations shift, entitlement debates recycle (Stritzel; Zimmerman). Scholars studying housing
-            markets remind readers that renters increasingly feel mortgage pathways blocked while construction calendars compress
-            for multifamily cranes nationwide — implying supply bottlenecks and neighborhood churn speak the same logistical
-            language (Gascon and Fu; Zhao).
+            Hovering cranes are important as they reshape tenancy quicker than sentiment. Completed buildings, such as
+            Bemiston Place (&apos;24, 237 units) indicate capacity; pending proposals continue to morph as timelines
+            shuffle, elevations shuffle, and entitlement discussions shuffle (Stritzel; Zimmerman). As renters grow more
+            frustrated with the restricted options for homeownership, and construction schedules tighten for multifamily
+            cranes across the country, scholars of the housing market remind readers that the supply constraints are
+            identical: supply bottlenecks and neighborhood churn are doing the same thing (Gascon and Fu; Zhao).
           </p>
           <p>
-            Critics flag gentrifying consumer bases that erase independent merchants, eviction waves after protections expire,
-            and microscopically thin affordability wedges inside luxury towers — evidence Side 2 unpacks systematically
-            (Lung-Amam; Stritzel). The point of this opener is narrower: acknowledging both arcs before choosing neither. Thesis
-            statements usually crown one narrative; Dissoi Logoi deliberately ends introductions still unresolved —
-            scaffolding only. Turn the page twice: mirrored cards await, weighted equally because intellectual honesty demands it.
+            Gentrifying customer bases that wipe out independent businesses, waves of evictions when protections lapse,
+            and affordability wedges so thinly spread within luxury towers are all evidence that Side 2 systematically
+            unpacks (Lung-Amam; Stritzel). This is an opener that is narrower: the recognition of both arches just prior
+            to making no selection. Usually, thesis statements cap one narrative; Dissoi Logoi is a deliberate ending to
+            introductions that aren&apos;t concluded. Turn over two cards, a mirrored two cards, weighted equally —
+            intellectual integrity requires it.
           </p>
         </article>
 
