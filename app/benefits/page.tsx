@@ -75,7 +75,11 @@ export default function BenefitsPage() {
           title="Investment can renovate aging neighborhood fabric"
           eyebrow="Material stewardship"
           image={
-            <ImagePlaceholder caption="Placeholder for photo: Rehabilitated Clayton residential façades beside newer multifamily corners" />
+            <ImagePlaceholder
+              src="/images/rehabilitated-residential-facades.jpg"
+              alt="Street-level view of renovated residential façades alongside newer multifamily corners—porches, siding, and mature trees."
+              caption="Rehabilitated Clayton residential façades beside newer multifamily corners"
+            />
           }
         >
           <p>
@@ -103,7 +107,11 @@ export default function BenefitsPage() {
           tag="Cluster C"
           title="Housing pressures require supply that actually completes"
           image={
-            <ImagePlaceholder caption="Placeholder for photo: Clayton-area multifamily steel decking / crane silhouette against dusk sky" />
+            <ImagePlaceholder
+              src="/images/multifamily-steel-decking-dusk.webp"
+              alt="Construction site at dusk: steel floor decking, rebar, and a crane silhouette against a dimming sky."
+              caption="Clayton-area multifamily steel decking / crane silhouette against dusk sky"
+            />
           }
         >
           <p>

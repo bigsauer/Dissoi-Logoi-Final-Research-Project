@@ -104,7 +104,13 @@ export default function ConcernsPage() {
         <ArgumentClusterCard
           tag="Cluster C"
           title="Timelines stagger, narratives collapse, skepticism fossilizes"
-          image={<ImagePlaceholder caption="Placeholder for photo: Clayton vacant redevelopment lot / mothballed site awaiting vertical construction" />}
+          image={
+            <ImagePlaceholder
+              src="/images/vacant-redevelopment-lot.jpg"
+              alt="Large cleared urban lot with gravel and fencing—vacant land awaiting vertical construction beside existing buildings."
+              caption="Clayton vacant redevelopment lot / mothballed site awaiting vertical construction"
+            />
+          }
         >
           <p>
             Ihnen narrates Vanguard&apos;s prior Brown Shoe tract idling economically — shelved amidst 2008&apos;s cascading slump until resurrection years later rebranded fortunes

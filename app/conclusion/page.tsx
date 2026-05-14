@@ -24,7 +24,12 @@ export default function ConclusionPage() {
       </section>
 
       <section className="mx-auto grid w-full max-w-content gap-12 px-6 py-[4rem] sm:px-10 lg:px-[0.25rem] lg:pb-[5.375rem]">
-        <ImagePlaceholder caption="Placeholder for photo: Evening Clayton skyline panorama — cranes and street grid visible" />
+        <ImagePlaceholder
+          src="/images/clayton-evening-skyline.jpg"
+          alt="Evening view over Clayton rooftops and office towers with construction cranes visible along the street grid."
+          caption="Evening Clayton skyline panorama — cranes and street grid visible"
+          priority
+        />
 
         <blockquote className="border-l-[3px] border-foreground py-2 pl-6 text-[1.035rem] font-semibold leading-snug tracking-tight text-foreground">
           &ldquo;Modern Clayton isn&apos;t a battle between cities—it&apos;s a battle between developers, longtime residents and small businesses about
